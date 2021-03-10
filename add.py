@@ -1,6 +1,8 @@
 def abc(x,y):
     a=x+y
     print(a)
+    b=x-y
+    print(b)
 abc(5,5)
 
 #  git status
